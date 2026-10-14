@@ -14,7 +14,7 @@ In aggiunta sono disponibili gli stessi nei rispettivi formati:
 - [JSON](definitions.json.zip)
 - [TTL](definitions.ttl.zip)
 
-Questi file, contengono tutte le regole che descrivono la validità dei profili e possono essere utilizzati per validare ogni artefatto generato  dalla impementation guide del referto di laboratorio.
+Questi file, contengono tutte le regole che descrivono la validità dei profili e possono essere utilizzati per validare ogni artefatto generato  della Implementation Guide del Referto di Laboratorio.
 
 Inoltre, in funzione della versione FHIR (R4-R4B), vengono forniti i seguenti package:
 
